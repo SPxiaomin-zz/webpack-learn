@@ -24,8 +24,6 @@
 
     vue
 
-      vue-loader会默认调用babel-loader来处理jsx？
-
     es6
 
   2. css
